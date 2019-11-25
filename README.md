@@ -4,4 +4,4 @@ A Python 3 program using the libraries numpy, matplotlib, seaborn and pandas to 
 
 https://repl.it/@chaudhryna/310-L7-Soft-Displaying-Titanic-Datasets-Starter
 
-![Titanic Scatterplot](titanic-scatterplot.png)
+![Titanic Scatterplot](titanic-scatterplot.PNG)
